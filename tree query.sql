@@ -60,6 +60,3 @@ SELECT
         ELSE 'Leaf'
     END AS Type
 FROM tree;
-
-
-from tree;
